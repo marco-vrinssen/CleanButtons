@@ -1,7 +1,7 @@
 ## Interface: 110200
-## Title: CleanButtons
+## Title: No Glow
 ## Notes: Removes button glow effects from action bars
 ## Author: MIYANKO
 ## Version: 1.0.0
 
-CleanButtons.lua
+NoGlow.lua
